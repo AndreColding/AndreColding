@@ -11,23 +11,23 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Engineer with experien
 ## 🛠️ Technologies & Tools
 
 ### Front-End
-✔ Language: JavaScript (ES5/ES6, Babel), Typescript, HTML5, CSS3 with SCSS.
-✔ Frameworks: ReactJS(Gatsby/NextJS), Vue2/Vue3, Redux, Vuex, Nuxt;
-✔ UI CSS Frameworks: Tailwind, React Suite, Material UI, Bootstrap, Shadcn, Vuetify;
-✔ Cloud: AWS, Firebase
-✔ Design: Object-Oriented UI/UX Design, responsive web, …
-✔ Others: Axios, AJAX, Webpack, npm, yarn, …
+- **Language:** JavaScript (ES5/ES6, Babel), Typescript, HTML5, CSS3 with SCSS.
+- **Frameworks:** ReactJS(Gatsby/NextJS), Vue2/Vue3, Redux, Vuex, Nuxt;
+- **UI CSS Frameworks:** Tailwind, React Suite, Material UI, Bootstrap, Shadcn, Vuetify;
+- **Cloud:** AWS, Firebase
+- **Design:** Object-Oriented UI/UX Design, responsive web, …
+- **Others:** Axios, AJAX, Webpack, npm, yarn, …
 
 ### Back-End
-✔ Language: Nodejs, PHP, Python
-✔ Database: MongoDB, SQL, Firebase/Firestore
-✔ Cloud hosting: AWS, Azure, Google Cloud Platform
+- **Language:** Nodejs, PHP, Python
+- **Database:** MongoDB, SQL, Firebase/Firestore
+- **Cloud hosting:** AWS, Azure, Google Cloud Platform
 
 ### AI technologies I work with:
-✔ GenAI: ChatGPT, GPT-4, DALL-E, LLAMA3, FineTuning
-✔ Frameworks: LangChain
-✔ Libraries: Transformers, Hugging Face
-✔ Tools: Auto-GPT, OpenAI API
+- **GenAI:** ChatGPT, GPT-4, DALL-E, LLAMA3, FineTuning
+- **Frameworks:** LangChain
+- **Libraries:** Transformers, Hugging Face
+- **Tools:** Auto-GPT, OpenAI API
 
 Feel free to reach out if you have any questions or if you’d like to collaborate on a project!
 
